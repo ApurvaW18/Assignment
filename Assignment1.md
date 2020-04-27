@@ -1,5 +1,5 @@
 **Q.What is cloud ?**
-*Ans-*cloud means storing and accessing data.
+*Ans*-Cloud means storing and accessing data.
 
 **Q.Advantages of cloud?**
 *Ans*- 1.High speed- cloud allow you to get resources required for you within seconds/minutes.
